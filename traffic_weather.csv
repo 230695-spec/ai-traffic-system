@@ -1,0 +1,92 @@
+State,Station,Location,Year,ADT,CarTaxi,LightLorry,MediumLorry,HeavyLorry,Bus,Motorcycle,MetStation,MinTemp_C,MaxTemp_C,AvgTemp_C,Rainfall_mm,Humidity_pct
+Johor,JR204,Jalan Skudai,2015,108858,69.9,6.8,5.0,1.6,1.0,15.8,Senai,23.7,32.4,28.05,2474.2,85.1
+Johor,JR204,Jalan Skudai,2016,110498,69.9,6.8,5.0,1.6,1.0,15.8,Senai,24.4,32.9,28.65,1926.6,85.6
+Johor,JR204,Jalan Skudai,2017,145079,69.9,6.8,5.0,1.6,1.0,15.8,Senai,24.0,32.1,28.05,2926.7,86.8
+Johor,JR204,Jalan Skudai,2018,149199,69.9,6.8,5.0,1.6,1.0,15.8,Senai,23.7,32.1,27.9,2034.2,86.8
+Johor,JR204,Jalan Skudai,2019,88738,69.9,6.8,5.0,1.6,1.0,15.8,Senai,24.0,32.7,28.35,2333.0,84.9
+Johor,JR204,Jalan Skudai,2020,77841,69.9,6.8,5.0,1.6,1.0,15.8,Senai,24.2,32.4,28.3,2778.0,84.0
+Johor,JR204,Jalan Skudai,2021,42046,69.9,6.8,5.0,1.6,1.0,15.8,Senai,23.9,32.1,28.0,2872.6,83.7
+Johor,JR501,Johor Bahru-Endau,2015,14672,63.9,11.8,7.7,6.7,0.6,9.2,Senai,23.7,32.4,28.05,2474.2,85.1
+Johor,JR501,Johor Bahru-Endau,2016,15336,63.9,11.8,7.7,6.7,0.6,9.2,Senai,24.4,32.9,28.65,1926.6,85.6
+Johor,JR501,Johor Bahru-Endau,2017,15599,63.9,11.8,7.7,6.7,0.6,9.2,Senai,24.0,32.1,28.05,2926.7,86.8
+Johor,JR501,Johor Bahru-Endau,2018,15459,63.9,11.8,7.7,6.7,0.6,9.2,Senai,23.7,32.1,27.9,2034.2,86.8
+Johor,JR501,Johor Bahru-Endau,2019,14442,63.9,11.8,7.7,6.7,0.6,9.2,Senai,24.0,32.7,28.35,2333.0,84.9
+Johor,JR501,Johor Bahru-Endau,2020,12566,63.9,11.8,7.7,6.7,0.6,9.2,Senai,24.2,32.4,28.3,2778.0,84.0
+Johor,JR501,Johor Bahru-Endau,2021,8800,63.9,11.8,7.7,6.7,0.6,9.2,Senai,23.9,32.1,28.0,2872.6,83.7
+Negeri Sembilan,NR501,Seremban-Kuala Lumpur (Old road),2015,11870,68.3,5.8,5.3,6.3,0.5,13.8,Batu Kikir,,,,,
+Negeri Sembilan,NR501,Seremban-Kuala Lumpur (Old road),2016,10984,68.3,5.8,5.3,6.3,0.5,13.8,Batu Kikir,,,,,
+Negeri Sembilan,NR501,Seremban-Kuala Lumpur (Old road),2017,11314,68.3,5.8,5.3,6.3,0.5,13.8,Batu Kikir,,,,,
+Negeri Sembilan,NR501,Seremban-Kuala Lumpur (Old road),2018,11088,68.3,5.8,5.3,6.3,0.5,13.8,Batu Kikir,,,,,
+Negeri Sembilan,NR501,Seremban-Kuala Lumpur (Old road),2019,11339,68.3,5.8,5.3,6.3,0.5,13.8,Batu Kikir,,,,,
+Negeri Sembilan,NR501,Seremban-Kuala Lumpur (Old road),2020,9731,68.3,5.8,5.3,6.3,0.5,13.8,Batu Kikir,,,,,
+Negeri Sembilan,NR501,Seremban-Kuala Lumpur (Old road),2021,3346,68.3,5.8,5.3,6.3,0.5,13.8,Batu Kikir,,,,,
+Perak,AR301,Ipoh-Kampar,2015,30592,67.5,12.1,6.2,3.9,0.5,9.9,Ipoh,24.1,33.1,28.6,2950.6,80.6
+Perak,AR301,Ipoh-Kampar,2016,24654,67.5,12.1,6.2,3.9,0.5,9.9,Ipoh,24.6,33.9,29.25,1954.5,75.7
+Perak,AR301,Ipoh-Kampar,2017,29911,67.5,12.1,6.2,3.9,0.5,9.9,Ipoh,24.1,32.7,28.4,3299.9,80.0
+Perak,AR301,Ipoh-Kampar,2018,30321,67.5,12.1,6.2,3.9,0.5,9.9,Ipoh,23.8,32.7,28.25,3132.5,80.3
+Perak,AR301,Ipoh-Kampar,2019,20707,67.5,12.1,6.2,3.9,0.5,9.9,Ipoh,24.3,33.4,28.85,2806.4,78.3
+Perak,AR301,Ipoh-Kampar,2020,17500,67.5,12.1,6.2,3.9,0.5,9.9,Ipoh,24.3,33.0,28.65,3269.4,79.9
+Perak,AR301,Ipoh-Kampar,2021,12642,67.5,12.1,6.2,3.9,0.5,9.9,Ipoh,23.9,32.8,28.35,2965.4,79.2
+Kedah,KR501,Alor Setar-Sungai Petani,2015,19854,68.1,8.8,5.0,5.9,0.2,11.9,Alor Setar,24.3,33.2,28.75,2153.4,79.8
+Kedah,KR501,Alor Setar-Sungai Petani,2016,18221,68.1,8.8,5.0,5.9,0.2,11.9,Alor Setar,24.8,33.3,29.05,1904.4,81.1
+Kedah,KR501,Alor Setar-Sungai Petani,2017,17748,68.1,8.8,5.0,5.9,0.2,11.9,Alor Setar,24.2,32.2,28.200000000000003,2763.2,84.0
+Kedah,KR501,Alor Setar-Sungai Petani,2018,17695,68.1,8.8,5.0,5.9,0.2,11.9,Alor Setar,24.4,32.9,28.65,2080.8,83.4
+Kedah,KR501,Alor Setar-Sungai Petani,2019,17083,68.1,8.8,5.0,5.9,0.2,11.9,Alor Setar,24.5,33.3,28.9,2181.6,82.4
+Kedah,KR501,Alor Setar-Sungai Petani,2020,14551,68.1,8.8,5.0,5.9,0.2,11.9,Alor Setar,24.3,33.0,28.65,2408.4,83.6
+Kedah,KR501,Alor Setar-Sungai Petani,2021,7794,68.1,8.8,5.0,5.9,0.2,11.9,Alor Setar,24.0,32.5,28.25,2272.0,82.2
+Pahang,CR805,Kuantan-Maran,2015,6369,64.1,12.3,6.4,9.2,0.7,7.3,Kuantan,23.9,32.4,28.15,1947.4,83.5
+Pahang,CR805,Kuantan-Maran,2016,6841,64.1,12.3,6.4,9.2,0.7,7.3,Kuantan,24.2,32.6,28.4,2211.8,85.6
+Pahang,CR805,Kuantan-Maran,2017,6915,64.1,12.3,6.4,9.2,0.7,7.3,Kuantan,23.9,31.9,27.9,2957.4,87.5
+Pahang,CR805,Kuantan-Maran,2018,7061,64.1,12.3,6.4,9.2,0.7,7.3,Kuantan,23.8,32.1,27.950000000000003,2743.9,85.7
+Pahang,CR805,Kuantan-Maran,2019,6889,64.1,12.3,6.4,9.2,0.7,7.3,Kuantan,23.8,32.5,28.15,1970.4,82.4
+Pahang,CR805,Kuantan-Maran,2020,6638,64.1,12.3,6.4,9.2,0.7,7.3,Kuantan,24.1,32.3,28.2,2409.2,75.5
+Pahang,CR805,Kuantan-Maran,2021,5006,64.1,12.3,6.4,9.2,0.7,7.3,Kuantan,23.9,31.9,27.9,Def.,81.9
+Pahang,CR902,Kuantan-Segamat,2015,9985,68.6,10.2,5.0,7.2,0.6,8.4,Kuantan,23.9,32.4,28.15,1947.4,83.5
+Pahang,CR902,Kuantan-Segamat,2016,10514,68.6,10.2,5.0,7.2,0.6,8.4,Kuantan,24.2,32.6,28.4,2211.8,85.6
+Pahang,CR902,Kuantan-Segamat,2017,10416,68.6,10.2,5.0,7.2,0.6,8.4,Kuantan,23.9,31.9,27.9,2957.4,87.5
+Pahang,CR902,Kuantan-Segamat,2018,10651,68.6,10.2,5.0,7.2,0.6,8.4,Kuantan,23.8,32.1,27.950000000000003,2743.9,85.7
+Pahang,CR902,Kuantan-Segamat,2019,12330,68.6,10.2,5.0,7.2,0.6,8.4,Kuantan,23.8,32.5,28.15,1970.4,82.4
+Pahang,CR902,Kuantan-Segamat,2020,12383,68.6,10.2,5.0,7.2,0.6,8.4,Kuantan,24.1,32.3,28.2,2409.2,75.5
+Pahang,CR902,Kuantan-Segamat,2021,12455,68.6,10.2,5.0,7.2,0.6,8.4,Kuantan,23.9,31.9,27.9,Def.,81.9
+Terengganu,TR402,Kuala Terengganu-Marang,2015,24887,71.0,6.6,2.6,1.1,0.3,18.4,Kuala Terengganu,24.7,31.6,28.15,1860.4,81.1
+Terengganu,TR402,Kuala Terengganu-Marang,2016,34408,71.0,6.6,2.6,1.1,0.3,18.4,Kuala Terengganu,24.9,31.9,28.4,2946.4,81.7
+Terengganu,TR402,Kuala Terengganu-Marang,2017,35427,71.0,6.6,2.6,1.1,0.3,18.4,Kuala Terengganu,24.5,31.4,27.95,3074.4,82.5
+Terengganu,TR402,Kuala Terengganu-Marang,2018,36656,71.0,6.6,2.6,1.1,0.3,18.4,Kuala Terengganu,24.6,31.5,28.05,2646.0,82.0
+Terengganu,TR402,Kuala Terengganu-Marang,2019,35124,71.0,6.6,2.6,1.1,0.3,18.4,Kuala Terengganu,24.8,31.9,28.35,2059.0,81.1
+Terengganu,TR402,Kuala Terengganu-Marang,2020,31387,71.0,6.6,2.6,1.1,0.3,18.4,Kuala Terengganu,24.9,31.5,28.2,2946.6,82.4
+Terengganu,TR402,Kuala Terengganu-Marang,2021,25665,71.0,6.6,2.6,1.1,0.3,18.4,Kuala Terengganu,24.5,31.3,27.9,2285.2,82.2
+Kelantan,DR802,Kota Bharu-Kuala Krai,2015,23345,67.7,9.6,6.3,4.3,0.2,11.9,Kota Bharu,24.4,31.6,28.0,2065.3,80.3
+Kelantan,DR802,Kota Bharu-Kuala Krai,2016,21969,67.7,9.6,6.3,4.3,0.2,11.9,Kota Bharu,24.8,31.9,28.35,2652.8,78.7
+Kelantan,DR802,Kota Bharu-Kuala Krai,2017,22160,67.7,9.6,6.3,4.3,0.2,11.9,Kota Bharu,24.3,30.9,27.6,3380.0,82.4
+Kelantan,DR802,Kota Bharu-Kuala Krai,2018,22550,67.7,9.6,6.3,4.3,0.2,11.9,Kota Bharu,24.4,31.2,27.8,2887.0,82.1
+Kelantan,DR802,Kota Bharu-Kuala Krai,2019,21898,67.7,9.6,6.3,4.3,0.2,11.9,Kota Bharu,24.5,31.9,28.2,1803.2,79.7
+Kelantan,DR802,Kota Bharu-Kuala Krai,2020,18967,67.7,9.6,6.3,4.3,0.2,11.9,Kota Bharu,24.6,31.6,28.1,2984.8,81.1
+Kelantan,DR802,Kota Bharu-Kuala Krai,2021,16159,67.7,9.6,6.3,4.3,0.2,11.9,Kota Bharu,24.3,31.2,27.75,2527.6,81.7
+Sabah,HR201,Kota Kinabalu-Sindumin,2015,15786,70.6,10.6,3.4,5.5,0.2,9.8,Kota Kinabalu,24.6,32.8,28.7,2031.4,81.1
+Sabah,HR201,Kota Kinabalu-Sindumin,2016,15999,70.6,10.6,3.4,5.5,0.2,9.8,Kota Kinabalu,24.8,33.2,29.0,2087.0,79.2
+Sabah,HR201,Kota Kinabalu-Sindumin,2017,15892,70.6,10.6,3.4,5.5,0.2,9.8,Kota Kinabalu,24.3,32.1,28.200000000000003,3144.7,80.8
+Sabah,HR201,Kota Kinabalu-Sindumin,2018,17465,70.6,10.6,3.4,5.5,0.2,9.8,Kota Kinabalu,24.4,32.9,28.65,2326.8,78.8
+Sabah,HR201,Kota Kinabalu-Sindumin,2019,16755,70.6,10.6,3.4,5.5,0.2,9.8,Kota Kinabalu,24.5,32.8,28.65,2535.2,78.7
+Sabah,HR201,Kota Kinabalu-Sindumin,2020,15240,70.6,10.6,3.4,5.5,0.2,9.8,Kota Kinabalu,24.3,32.2,28.25,3456.6,82.4
+Sabah,HR201,Kota Kinabalu-Sindumin,2021,12212,70.6,10.6,3.4,5.5,0.2,9.8,Kota Kinabalu,24.1,31.8,27.950000000000003,3584.8,82.7
+Sabah,HR501,Tawau-Sandakan Highway,2015,11508,45.2,30.3,7.7,10.3,0.7,5.9,Tawau,23.7,32.0,27.85,1378.6,83.0
+Sabah,HR501,Tawau-Sandakan Highway,2016,11694,45.2,30.3,7.7,10.3,0.7,5.9,Tawau,23.8,31.8,27.8,1868.1,82.4
+Sabah,HR501,Tawau-Sandakan Highway,2017,12649,45.2,30.3,7.7,10.3,0.7,5.9,Tawau,23.9,31.5,27.7,2187.6,85.3
+Sabah,HR501,Tawau-Sandakan Highway,2018,13012,45.2,30.3,7.7,10.3,0.7,5.9,Tawau,23.7,31.8,27.75,2279.4,84.4
+Sabah,HR501,Tawau-Sandakan Highway,2019,13272,45.2,30.3,7.7,10.3,0.7,5.9,Tawau,23.7,32.1,27.9,1590.4,82.0
+Sabah,HR501,Tawau-Sandakan Highway,2020,11861,45.2,30.3,7.7,10.3,0.7,5.9,Tawau,23.8,31.8,27.8,1947.8,85.0
+Sabah,HR501,Tawau-Sandakan Highway,2021,9842,45.2,30.3,7.7,10.3,0.7,5.9,Tawau,23.6,31.5,27.55,1974.4,86.0
+Sarawak,SR103,Kuching-Serian,2015,34874,72.4,9.8,4.3,3.6,0.2,9.8,Kuching,23.9,32.0,27.95,4545.5,83.4
+Sarawak,SR103,Kuching-Serian,2016,34950,72.4,9.8,4.3,3.6,0.2,9.8,Kuching,24.0,32.5,28.25,5423.0,84.1
+Sarawak,SR103,Kuching-Serian,2017,22171,72.4,9.8,4.3,3.6,0.2,9.8,Kuching,23.8,32.3,28.05,3823.2,87.5
+Sarawak,SR103,Kuching-Serian,2018,22587,72.4,9.8,4.3,3.6,0.2,9.8,Kuching,23.8,32.3,28.05,3864.6,83.8
+Sarawak,SR103,Kuching-Serian,2019,42598,72.4,9.8,4.3,3.6,0.2,9.8,Kuching,24.1,32.5,28.3,3307.5,84.0
+Sarawak,SR103,Kuching-Serian,2020,36673,72.4,9.8,4.3,3.6,0.2,9.8,Kuching,24.0,32.0,28.0,4079.6,86.8
+Sarawak,SR103,Kuching-Serian,2021,31432,72.4,9.8,4.3,3.6,0.2,9.8,Kuching,23.6,32.0,27.8,4436.6,85.2
+Sarawak,SR402,Bintulu-Miri,2015,7452,41.7,35.4,4.4,14.5,1.6,2.4,Bintulu,23.8,31.8,27.8,3459.0,86.4
+Sarawak,SR402,Bintulu-Miri,2016,7428,41.7,35.4,4.4,14.5,1.6,2.4,Bintulu,24.2,31.9,28.05,3214.6,85.8
+Sarawak,SR402,Bintulu-Miri,2017,8000,41.7,35.4,4.4,14.5,1.6,2.4,Bintulu,23.8,31.7,27.75,3810.6,87.5
+Sarawak,SR402,Bintulu-Miri,2018,8208,41.7,35.4,4.4,14.5,1.6,2.4,Bintulu,23.8,31.7,27.75,4581.8,88.1
+Sarawak,SR402,Bintulu-Miri,2019,7359,41.7,35.4,4.4,14.5,1.6,2.4,Bintulu,24.0,32.0,28.0,3316.6,86.0
+Sarawak,SR402,Bintulu-Miri,2020,7312,41.7,35.4,4.4,14.5,1.6,2.4,Bintulu,24.2,31.8,28.0,4248.0,87.4
+Sarawak,SR402,Bintulu-Miri,2021,5388,41.7,35.4,4.4,14.5,1.6,2.4,Bintulu,23.8,31.9,27.85,4021.2,85.6
